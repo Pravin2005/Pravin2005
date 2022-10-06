@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Pravin2005
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to teach on ...
+- 📫 How to reach me ...
+
+<!---
+Pravin2005/Pravin2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
